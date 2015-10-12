@@ -1,0 +1,33 @@
+[
+ {
+        "hotelName" : "Le Meridien Versailles-Montreal",
+         "hotelType" : "Agency",
+         "hotelId" : "1"
+  },
+
+{
+
+ "hotelName" : "Auberge de la Place Royale",
+   "hotelType" : "Merchant",
+   "hotelId" : "2"
+  },
+  {
+
+   "hotelName" : "Holiday Inn Express Hotel & Suites Montreal Airport",
+     "hotelType" : "Merchant",
+     "hotelId" : "3"
+    },
+    {
+
+     "hotelName" : "The Celebrities Hotel",
+       "hotelType" : "Merchant",
+       "hotelId" : "4"
+      },
+      {
+
+       "hotelName" : "Hotel Ambrose",
+         "hotelType" : "Agency",
+         "hotelId" : "5"
+        }
+  ]
+

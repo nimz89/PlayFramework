@@ -1,0 +1,15 @@
+@(hotels: List[model.Hotel])
+@import helper._
+
+@main("") {
+
+    <ul>
+    @for(hotel <- hotels) {
+        <li>
+            @hotel.hotelName
+        </li>
+    }
+    </ul>
+
+
+}

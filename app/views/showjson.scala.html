@@ -1,0 +1,13 @@
+@( hotelJson: List[String])
+@import helper._
+
+@main("") {
+
+    <ul>
+    @for(hotel <- hotelJson) {
+        <li>
+       @hotel
+        </li>
+    }
+    </ul>
+}
